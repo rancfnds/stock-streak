@@ -21,6 +21,13 @@ npm install
 npm start
 ```
 
+
+#### Important Dependencies 
+
+npm i axios
+npm i react-icons
+npm install react-apexcharts apexcharts
+
 https://vitejs.dev/guide/
 
 #### STEP 2: package.json
@@ -31,6 +38,8 @@ If the steps mentioned above do not work, please make sure that Node.js is insta
 2. Click on the "debug" option, and then select "dev" to initiate the build process.
 
 After the build process completes successfully, the project will connect to a local server. You can access the application through the link that will be provided in the terminal. This link typically leads to the locally hosted version of your web application where you can interact with it.
+
+
 
 ### Project Structure
 
